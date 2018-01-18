@@ -28,7 +28,6 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
-LIBS:Light-Gated-Noise-Box-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
@@ -362,6 +361,4 @@ $EndComp
 Wire Wire Line
 	1400 7000 1700 7000
 Connection ~ 1400 6300
-Text Notes 4950 4900 0    60   ~ 0
-Hoi
 $EndSCHEMATC
